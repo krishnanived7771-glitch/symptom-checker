@@ -1,0 +1,6 @@
+{
+  "name": "MediCore Clinical Symptom Checker",
+  "description": "Accessible, clinical-grade symptom checker and anatomical triage tool with evidence-based pattern matching and high-contrast accessibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
